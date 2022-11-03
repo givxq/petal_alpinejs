@@ -1,4 +1,12 @@
-# NPM Install (tailwind alpinejs)
+#AlpineJS Install
+
+```
+cd assets
+npm install alpinejs
+cd ..
+```
+
+# Tailwind Install
 
 ```
 cd assets
