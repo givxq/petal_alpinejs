@@ -18,7 +18,9 @@ defmodule PetalWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
-    live "/my", PageLive, :index
+    # live "/my", PageLive, :index
+
+    # live "/", PageLive, :index
   end
 
   # Other scopes may use custom stacks.
